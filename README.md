@@ -1,4 +1,4 @@
-Welcome to my **GitHub Portfolio**! I'm **Jessica Ivey**, an AI-driven cybersecurity specialist with expertise in:
+Welcome to my **GitHub Portfolio**! I'm **Jessica Ivey Allen**, an AI-driven cybersecurity specialist with expertise in:
 - IT Support
 - Network Trouble Shooting
 - AI-Powered Security Automation 🤖
@@ -12,12 +12,6 @@ Welcome to my **GitHub Portfolio**! I'm **Jessica Ivey**, an AI-driven cybersecu
 - Enterprise Network Simulations
 - Virtual Labs
 - AI Tools
-
----
-
-## 📂 Portfolio Structure
-
----
 
 ## 🚀 Connect with Me
 - **GitHub:** [JIvey-Is-IT](https://github.com/JessicaIveyAllen)
