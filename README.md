@@ -64,7 +64,7 @@ Co-inventor of a GUI-based file storage and compression system using SQLite and 
 ## 📫 How to reach me
 
 - LinkedIn: [Jessica Ivey Allen](https://www.linkedin.com/in/jessicaiveyallen/)
-- Email: your.email@example.com
+- Email: nodasocit@gmail.com
 - Twitter: [@jessicaiveyallen](https://twitter.com/jessicaiveyallen)
 
 ## ⚡ Education & Certifications
