@@ -45,8 +45,6 @@ I'm a Technical Support Specialist with expertise in Tier 2 troubleshooting, net
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicaiveyallen&show_icons=true&theme=radical)
 
-![Top Languages] (Python)
-
 ## 🚀 Featured Projects
 
 ### Automated Splunk Enterprise Deployment with Docker
