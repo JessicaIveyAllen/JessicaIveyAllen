@@ -41,10 +41,6 @@ I'm a Technical Support Specialist with expertise in Tier 2 troubleshooting, net
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-00A1E0?style=flat-square&logo=servicenow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicaiveyallen&show_icons=true&theme=radical)
-
 ## 🚀 Featured Projects
 
 ### Automated Splunk Enterprise Deployment with Docker
