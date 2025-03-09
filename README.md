@@ -1,4 +1,4 @@
-# Hi there, I'm Jessica Ivey Allen 👋
+    # Hi there, I'm Jessica Ivey Allen 👋
 
 ## About Me
 I'm a Technical Support Specialist with expertise in Tier 2 troubleshooting, network diagnostics, system administration, and cybersecurity based in Charlotte, NC. My background spans fiber optics, network configurations, Windows/Linux systems, VDI environments, and enterprise IT support. I'm passionate about automation, AI-driven security solutions, and process optimization to improve customer experience and operational efficiency.
@@ -45,7 +45,7 @@ I'm a Technical Support Specialist with expertise in Tier 2 troubleshooting, net
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicaiveyallen&show_icons=true&theme=radical)
 
-![Top Languages](Python)
+![Top Languages] (Python)
 
 ## 🚀 Featured Projects
 
