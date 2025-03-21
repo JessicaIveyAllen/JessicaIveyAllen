@@ -1,16 +1,17 @@
 Hi there, I'm Jessica Ivey Allen 👋
 
 ## About Me
-I'm a Technical Support Specialist with expertise in Tier 2 troubleshooting, network diagnostics, system administration, and cybersecurity based in Charlotte, NC. My background spans fiber optics, network configurations, Windows/Linux systems, VDI environments, and enterprise IT support. I'm passionate about automation, AI-driven security solutions, and process optimization to improve customer experience and operational efficiency.
+I'm a Technical Support Specialist with expertise in troubleshooting, network diagnostics, system administration, and cybersecurity. My background spans fiber optics, network configurations, Windows/Linux systems, VDI environments, and enterprise IT support. I'm passionate about automation, AI-driven security solutions, and process optimization to improve customer experience and operational efficiency.
 
 ## 🔭 I'm currently working on
 - Automating IT support processes through AI-driven chatbots
 - Expanding my virtual enterprise home lab for cybersecurity research
 - Preparing for my CompTIA Security+ certification
-- Contributing as a Teaching Assistant for the Penn Cybersecurity Boot Camp
+- Contributing as an Instructional Specialist for Edx Cybersecurity Boot Camps hosted virutally at college campuses accross the USA!
 
-## 🌱 I'm currently learning
+## 🌱 Current Projects 
 - Advanced cybersecurity practices and threat intelligence analysis
+- Bug Bounty
 - Docker containerization and secure deployment strategies
 - Cloud security architecture on AWS
 - Python and Flask for security automation solutions
@@ -67,6 +68,7 @@ Co-inventor of a GUI-based file storage and compression system using SQLite and 
 - Penn Cybersecurity Boot Camp (edX) - March 2023
 - CompTIA Security+ (In Progress, Expected 2025)
 - Splunk Training: Introduction to Splunk, What is Splunk, Splunk Introduction to Cybersecurity
+- Microsoft 
 
 ## ⚡ Fun fact
 I'm a co-inventor on a utility patent for a file storage and compression system filed in 2024, and I graduated with Honors from the University of South Carolina Upstate where I was a member of Alpha Psi Omega!
